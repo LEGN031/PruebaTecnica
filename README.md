@@ -1,4 +1,4 @@
-<img width="1146" height="708" alt="image" src="https://github.com/user-attachments/assets/1086abd5-bddf-420d-af1a-e6ccd964219d" />🗳️ Sistema de Votaciones
+🗳️ Sistema de Votaciones
 
 Este es un sistema (RESTful API) de votaciones desarrollado en C# con arquitectura en capas, que permite gestionar votaciones, candidatos y votantes. Está construido sobre tecnologías como ASP.NET Core, Entity Framework y SQL Server.
 
