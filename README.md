@@ -68,7 +68,7 @@ Este proceso es único de la clase vote y nos regresa un objeto con algunas esta
 
 ## Realizado por:
 
-- [Emanuel Medina Arboleda](https://tu-enlace.com)
+- [Emanuel Medina Arboleda](https://www.linkedin.com/in/emanuel-medina-4361452a2/)
 
 ---
 
