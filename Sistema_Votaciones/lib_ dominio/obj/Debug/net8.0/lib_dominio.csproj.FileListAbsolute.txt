@@ -1,0 +1,13 @@
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_ dominio\bin\Debug\net8.0\lib_dominio.deps.json
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_ dominio\bin\Debug\net8.0\lib_dominio.dll
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_ dominio\bin\Debug\net8.0\lib_dominio.pdb
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_ dominio\obj\Debug\net8.0\lib_dominio.csproj.AssemblyReference.cache
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_ dominio\obj\Debug\net8.0\lib_dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_ dominio\obj\Debug\net8.0\lib_dominio.AssemblyInfoInputs.cache
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_ dominio\obj\Debug\net8.0\lib_dominio.AssemblyInfo.cs
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_ dominio\obj\Debug\net8.0\lib_dominio.csproj.CoreCompileInputs.cache
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_ dominio\obj\Debug\net8.0\lib_dominio.sourcelink.json
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_ dominio\obj\Debug\net8.0\lib_dominio.dll
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_ dominio\obj\Debug\net8.0\refint\lib_dominio.dll
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_ dominio\obj\Debug\net8.0\lib_dominio.pdb
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_ dominio\obj\Debug\net8.0\ref\lib_dominio.dll

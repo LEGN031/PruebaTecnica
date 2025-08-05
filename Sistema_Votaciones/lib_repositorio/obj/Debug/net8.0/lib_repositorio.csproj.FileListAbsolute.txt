@@ -1,0 +1,16 @@
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_repositorio\bin\Debug\net8.0\lib_repositorio.deps.json
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_repositorio\bin\Debug\net8.0\lib_repositorio.dll
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_repositorio\bin\Debug\net8.0\lib_repositorio.pdb
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_repositorio\bin\Debug\net8.0\lib_dominio.dll
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_repositorio\bin\Debug\net8.0\lib_dominio.pdb
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_repositorio\obj\Debug\net8.0\lib_repositorio.csproj.AssemblyReference.cache
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_repositorio\obj\Debug\net8.0\lib_repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_repositorio\obj\Debug\net8.0\lib_repositorio.AssemblyInfoInputs.cache
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_repositorio\obj\Debug\net8.0\lib_repositorio.AssemblyInfo.cs
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_repositorio\obj\Debug\net8.0\lib_repositorio.csproj.CoreCompileInputs.cache
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_repositorio\obj\Debug\net8.0\lib_repositorio.sourcelink.json
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_repositorio\obj\Debug\net8.0\lib_repo.CF269C83.Up2Date
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_repositorio\obj\Debug\net8.0\lib_repositorio.dll
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_repositorio\obj\Debug\net8.0\refint\lib_repositorio.dll
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_repositorio\obj\Debug\net8.0\lib_repositorio.pdb
+C:\Users\emanu\source\repos\PruebaTecnica\Sistema_Votaciones\lib_repositorio\obj\Debug\net8.0\ref\lib_repositorio.dll
