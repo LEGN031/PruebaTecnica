@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\emanu\\source\\repos\\PruebaTecnica\\Sistema_Votaciones\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DD6771E-8DC1-4B83-8373-0882F1530FC0}|lib_repositorio\\lib_repositorio.csproj|c:\\users\\emanu\\source\\repos\\pruebatecnica\\sistema_votaciones\\lib_repositorio\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{5DD6771E-8DC1-4B83-8373-0882F1530FC0}|lib_repositorio\\lib_repositorio.csproj|solutionrelative:lib_repositorio\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{9393F572-28E3-4E5F-879B-D47FC6C6821A}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\emanu\\source\\repos\\pruebatecnica\\sistema_votaciones\\lib_aplicaciones\\implementaciones\\voteaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9393F572-28E3-4E5F-879B-D47FC6C6821A}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\voteaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2F9DCD2-B352-42BA-85A1-A78EFE867269}|asp_servicios\\asp_servicios.csproj|c:\\users\\emanu\\source\\repos\\pruebatecnica\\sistema_votaciones\\asp_servicios\\controllers\\votecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,12 +15,24 @@
       "RelativeMoniker": "D:0:0:{C2F9DCD2-B352-42BA-85A1-A78EFE867269}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\votercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9393F572-28E3-4E5F-879B-D47FC6C6821A}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\emanu\\source\\repos\\pruebatecnica\\sistema_votaciones\\lib_aplicaciones\\implementaciones\\voteraplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9393F572-28E3-4E5F-879B-D47FC6C6821A}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\voteraplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2F9DCD2-B352-42BA-85A1-A78EFE867269}|asp_servicios\\asp_servicios.csproj|c:\\users\\emanu\\source\\repos\\pruebatecnica\\sistema_votaciones\\asp_servicios\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F9DCD2-B352-42BA-85A1-A78EFE867269}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9393F572-28E3-4E5F-879B-D47FC6C6821A}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\emanu\\source\\repos\\pruebatecnica\\sistema_votaciones\\lib_aplicaciones\\implementaciones\\voteaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9393F572-28E3-4E5F-879B-D47FC6C6821A}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\voteaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5DD6771E-8DC1-4B83-8373-0882F1530FC0}|lib_repositorio\\lib_repositorio.csproj|c:\\users\\emanu\\source\\repos\\pruebatecnica\\sistema_votaciones\\lib_repositorio\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD6771E-8DC1-4B83-8373-0882F1530FC0}|lib_repositorio\\lib_repositorio.csproj|solutionrelative:lib_repositorio\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD6771E-8DC1-4B83-8373-0882F1530FC0}|lib_repositorio\\lib_repositorio.csproj|c:\\users\\emanu\\source\\repos\\pruebatecnica\\sistema_votaciones\\lib_repositorio\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD6771E-8DC1-4B83-8373-0882F1530FC0}|lib_repositorio\\lib_repositorio.csproj|solutionrelative:lib_repositorio\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD6771E-8DC1-4B83-8373-0882F1530FC0}|lib_repositorio\\lib_repositorio.csproj|c:\\users\\emanu\\source\\repos\\pruebatecnica\\sistema_votaciones\\lib_repositorio\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{5DD6771E-8DC1-4B83-8373-0882F1530FC0}|lib_repositorio\\lib_repositorio.csproj|solutionrelative:lib_repositorio\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9393F572-28E3-4E5F-879B-D47FC6C6821A}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\emanu\\source\\repos\\pruebatecnica\\sistema_votaciones\\lib_aplicaciones\\implementaciones\\voteraplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9393F572-28E3-4E5F-879B-D47FC6C6821A}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\voteraplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9393F572-28E3-4E5F-879B-D47FC6C6821A}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\emanu\\source\\repos\\pruebatecnica\\sistema_votaciones\\lib_aplicaciones\\interfaces\\ivoteaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,18 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{25342C36-03B3-4B43-A7B0-AEB51AD5D890}|lib_ dominio\\lib_dominio.csproj|c:\\users\\emanu\\source\\repos\\pruebatecnica\\sistema_votaciones\\lib_ dominio\\entidades\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25342C36-03B3-4B43-A7B0-AEB51AD5D890}|lib_ dominio\\lib_dominio.csproj|solutionrelative:lib_ dominio\\entidades\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD6771E-8DC1-4B83-8373-0882F1530FC0}|lib_repositorio\\lib_repositorio.csproj|c:\\users\\emanu\\source\\repos\\pruebatecnica\\sistema_votaciones\\lib_repositorio\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DD6771E-8DC1-4B83-8373-0882F1530FC0}|lib_repositorio\\lib_repositorio.csproj|solutionrelative:lib_repositorio\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD6771E-8DC1-4B83-8373-0882F1530FC0}|lib_repositorio\\lib_repositorio.csproj|c:\\users\\emanu\\source\\repos\\pruebatecnica\\sistema_votaciones\\lib_repositorio\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DD6771E-8DC1-4B83-8373-0882F1530FC0}|lib_repositorio\\lib_repositorio.csproj|solutionrelative:lib_repositorio\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2F9DCD2-B352-42BA-85A1-A78EFE867269}|asp_servicios\\asp_servicios.csproj|c:\\users\\emanu\\source\\repos\\pruebatecnica\\sistema_votaciones\\asp_servicios\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2F9DCD2-B352-42BA-85A1-A78EFE867269}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9393F572-28E3-4E5F-879B-D47FC6C6821A}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\emanu\\source\\repos\\pruebatecnica\\sistema_votaciones\\lib_aplicaciones\\implementaciones\\candidateaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -105,10 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{25342C36-03B3-4B43-A7B0-AEB51AD5D890}|lib_ dominio\\lib_dominio.csproj|c:\\users\\emanu\\source\\repos\\pruebatecnica\\sistema_votaciones\\lib_ dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25342C36-03B3-4B43-A7B0-AEB51AD5D890}|lib_ dominio\\lib_dominio.csproj|solutionrelative:lib_ dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DD6771E-8DC1-4B83-8373-0882F1530FC0}|lib_repositorio\\lib_repositorio.csproj|c:\\users\\emanu\\source\\repos\\pruebatecnica\\sistema_votaciones\\lib_repositorio\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{5DD6771E-8DC1-4B83-8373-0882F1530FC0}|lib_repositorio\\lib_repositorio.csproj|solutionrelative:lib_repositorio\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -154,20 +150,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\PruebaTecnica\\Sistema_Votaciones\\lib_repositorio\\Implementaciones\\Conexion.cs",
               "RelativeDocumentMoniker": "lib_repositorio\\Implementaciones\\Conexion.cs",
               "ToolTip": "C:\\Users\\emanu\\source\\repos\\PruebaTecnica\\Sistema_Votaciones\\lib_repositorio\\Implementaciones\\Conexion.cs",
               "RelativeToolTip": "lib_repositorio\\Implementaciones\\Conexion.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAvwBUAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAvwBQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T11:59:14.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Candidate.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\PruebaTecnica\\Sistema_Votaciones\\lib_ dominio\\Entidades\\Candidate.cs",
               "RelativeDocumentMoniker": "lib_ dominio\\Entidades\\Candidate.cs",
@@ -175,18 +171,17 @@
               "RelativeToolTip": "lib_ dominio\\Entidades\\Candidate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T11:43:47.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T11:43:47.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "VoteAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\PruebaTecnica\\Sistema_Votaciones\\lib_aplicaciones\\Implementaciones\\VoteAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\VoteAplicacion.cs",
               "ToolTip": "C:\\Users\\emanu\\source\\repos\\PruebaTecnica\\Sistema_Votaciones\\lib_aplicaciones\\Implementaciones\\VoteAplicacion.cs",
               "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\VoteAplicacion.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAmwHUAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T12:43:59.68Z",
               "EditorCaption": ""
@@ -199,26 +194,27 @@
               "RelativeDocumentMoniker": "asp_servicios\\Controllers\\VoterController.cs",
               "ToolTip": "C:\\Users\\emanu\\source\\repos\\PruebaTecnica\\Sistema_Votaciones\\asp_servicios\\Controllers\\VoterController.cs",
               "RelativeToolTip": "asp_servicios\\Controllers\\VoterController.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAnwHgAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAvwHgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T12:59:46.678Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "TokenController.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\PruebaTecnica\\Sistema_Votaciones\\asp_servicios\\Controllers\\TokenController.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Controllers\\TokenController.cs",
               "ToolTip": "C:\\Users\\emanu\\source\\repos\\PruebaTecnica\\Sistema_Votaciones\\asp_servicios\\Controllers\\TokenController.cs",
               "RelativeToolTip": "asp_servicios\\Controllers\\TokenController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T12:59:15.301Z"
+              "WhenOpened": "2025-08-05T12:59:15.301Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Vote.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\PruebaTecnica\\Sistema_Votaciones\\lib_ dominio\\Entidades\\Vote.cs",
               "RelativeDocumentMoniker": "lib_ dominio\\Entidades\\Vote.cs",
@@ -226,20 +222,18 @@
               "RelativeToolTip": "lib_ dominio\\Entidades\\Vote.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T11:47:09.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T11:47:09.663Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Script.sql ",
+              "DocumentIndex": 6,
+              "Title": "Script.sql",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\PruebaTecnica\\Sistema_Votaciones\\lib_repositorio\\Script.sql",
               "RelativeDocumentMoniker": "lib_repositorio\\Script.sql",
               "ToolTip": "C:\\Users\\emanu\\source\\repos\\PruebaTecnica\\Sistema_Votaciones\\lib_repositorio\\Script.sql",
               "RelativeToolTip": "lib_repositorio\\Script.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-08-05T12:05:05.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T12:05:05.191Z"
             },
             {
               "$type": "Document",
@@ -249,14 +243,14 @@
               "RelativeDocumentMoniker": "asp_servicios\\Controllers\\VoteController.cs",
               "ToolTip": "C:\\Users\\emanu\\source\\repos\\PruebaTecnica\\Sistema_Votaciones\\asp_servicios\\Controllers\\VoteController.cs",
               "RelativeToolTip": "asp_servicios\\Controllers\\VoteController.cs",
-              "ViewState": "AgIAAK8AAAAAAAAAAAAawLkAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAvwJEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T15:06:27.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "IVoteAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\PruebaTecnica\\Sistema_Votaciones\\lib_aplicaciones\\Interfaces\\IVoteAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IVoteAplicacion.cs",
@@ -264,12 +258,11 @@
               "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IVoteAplicacion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T12:47:48.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T12:47:48.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "IConexion.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\PruebaTecnica\\Sistema_Votaciones\\lib_repositorio\\Interfaces\\IConexion.cs",
               "RelativeDocumentMoniker": "lib_repositorio\\Interfaces\\IConexion.cs",
@@ -277,12 +270,11 @@
               "RelativeToolTip": "lib_repositorio\\Interfaces\\IConexion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T12:02:05.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T12:02:05.394Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "VoterAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\PruebaTecnica\\Sistema_Votaciones\\lib_aplicaciones\\Implementaciones\\VoterAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\VoterAplicacion.cs",
@@ -290,12 +282,11 @@
               "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\VoterAplicacion.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAnwDoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T12:13:55.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T12:13:55.103Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "IVoterAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\PruebaTecnica\\Sistema_Votaciones\\lib_aplicaciones\\Interfaces\\IVoterAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IVoterAplicacion.cs",
@@ -303,8 +294,7 @@
               "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IVoterAplicacion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T12:15:51.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T12:15:51.75Z"
             },
             {
               "$type": "Document",

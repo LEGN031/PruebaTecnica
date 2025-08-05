@@ -131,32 +131,6 @@
   },
   {
     "ContainingType": "asp_servicios.Controllers.VoteController",
-    "Method": "PorCodigo",
-    "RelativePath": "API/Vote/{Code}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "Code",
-        "Type": "",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.String",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "asp_servicios.Controllers.VoteController",
     "Method": "Borrar",
     "RelativePath": "API/Vote/{id}",
     "HttpMethod": "DELETE",
@@ -223,9 +197,9 @@
   },
   {
     "ContainingType": "asp_servicios.Controllers.VoteController",
-    "Method": "Modificar",
-    "RelativePath": "API/Vote/Modificar",
-    "HttpMethod": "POST",
+    "Method": "PorCodigo",
+    "RelativePath": "API/Vote/PorCodigo",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],

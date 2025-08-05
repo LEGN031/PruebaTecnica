@@ -27,9 +27,19 @@ namespace lib_aplicaciones.Implementaciones
             if (entidad!.Id == 0)
                 throw new Exception("lbNoSeGuardo");
 
+            var votoDb = this.IConexion!.Vote!.FirstOrDefault(v => v.Id == entidad.Id);
+            if (votoDb == null)
+                throw new Exception("lbVotoNoExiste");
+
+            var voter = this.IConexion.Voter!.FirstOrDefault(v => v.Id == votoDb.VoterId);
+            if (voter == null)
+                throw new Exception("lbVotanteNoExiste");
+
+            voter!.HasVoted = false;
+            this.IConexion!.Voter!.Update(voter);
 
 
-            this.IConexion!.Vote!.Remove(entidad);
+            this.IConexion!.Vote!.Remove(votoDb);
             this.IConexion!.SaveChanges();
             return entidad;
 
